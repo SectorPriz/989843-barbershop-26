@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Алексей Зайцев](https://up.htmlacademy.ru/htmlcss/26/user/989843).
-
+* Наставник: [Roman Kushnir](https://up.htmlacademy.ru/htmlcss/26/user/485545).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
